@@ -27,3 +27,6 @@ If using the old system, you will need to specify the config replacement in your
         }
     })
 ```
+
+You can then use the filter like so in your scaffolder actions:
+`${{ placeholder | configReplace }}`
