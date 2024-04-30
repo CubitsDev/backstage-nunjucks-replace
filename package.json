@@ -33,5 +33,7 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "homepage": "https://github.com/CubitsDev/backstage-nunjucks-replace#readme",
+  "repository": "github:cubitsdev/backstage-nunjucks-replace"
 }
