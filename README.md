@@ -4,6 +4,9 @@ A Simple Plugin Module to create custom 'replacement' filters to use on the Back
 
 ## Usage
 
+Install with yarn:
+`yarn add backstage-nunjucks-replace`
+
 Add the following to your backstage config:
 
 ```yaml
